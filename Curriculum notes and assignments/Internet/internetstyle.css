@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#wrapper {
+    width: 970px;
+    margin: 0px auto;
+    background-color: white;
+}
+#wrapper h2{
+    color: white;
+    background-color: #4d80aa;
+    padding: 20px;
+}
+
+#header{
+    width: 99%;
+}
+
+#header img{
+    width: 50px;
+    height: auto;   
+}
+
+#header h1{
+    display:inline-block;
+	margin-bottom: 10px;
+	vertical-align: bottom;  
+}
+
+#header h1 span{
+    color:#28659d;
+}
+
+

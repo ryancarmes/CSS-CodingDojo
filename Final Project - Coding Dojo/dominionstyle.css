@@ -1,0 +1,268 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+#wrapper{
+    width: 970px;
+    margin: 0px auto;
+    background-color: #3572b7;
+}
+
+#heading{
+    background-color: #e0ddd7;
+}
+
+#heading img{
+    margin-left: 15px;
+}
+
+#heading ul{
+    margin-left: 315px;
+    
+}
+#heading ul li{
+    display: inline-block;
+    padding: 5px 15px;
+    border-left: 1px ridge black;
+}
+
+#heading a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+#upperhead{
+    display:inline-block;
+    margin-left: 370px;
+    margin-top: 10px;
+    vertical-align: top;
+}
+
+#upperhead button{
+    color: #e6e3de;
+    background-color: #215c9f;
+    padding: 1px 30px 1px 5px;
+    border-top: 1px solid silver;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: 1px solid silver;
+    border-radius: 5px 0px 0px 5px;
+}
+
+#upperhead input{
+    width: 210px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+
+#main_content{
+    width: 970px;
+    height: auto;
+    padding: 0px 0px 0px 0px;
+}
+
+#account{
+    width: 230px;
+    height: 220px;
+    background-color: #d4dbe4;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+    padding: 2px 0px;
+    box-shadow: 2px 2px 2px black;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#account_headers{
+    color: white;
+    background-color: #1a4d87;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 0px 5px 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+#account_headers p{
+    font-size: 18px;
+    text-shadow: 1px 1px black;
+    margin-bottom: -5px;
+}
+
+#account_headers span{
+    font-size: 11px;
+    color: silver;
+    text-shadow: 2px 2px black;
+}
+
+#account img{
+    display: inline-block;
+}
+
+.input{
+    margin-top: 10px;
+    color: #494542;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+
+.input input{
+    height: 23px;
+    margin-top: 5px;
+    border-radius: 6px;
+}
+
+.input a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;  
+}
+
+.input button{
+    color: white;
+    background-color: #4f4f4f;
+    padding: 2.5px 14px;
+    border-radius: 8px;
+    margin: 5px 5px 15px 0px;
+}
+
+.button button{
+    color:white;
+    background-color: #1a4d87;
+    font-size: 20px;
+    width: 230px;
+    padding: 10px 0px;
+    border: 1px solid white;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+div h5{
+    color: black;
+    background-color: #e0ddd7;
+    width: 930px;
+    padding: 10px 10px 10px 20px;
+    margin: 2px 0 0 3px;
+    border: 2px solid black;
+}
+
+div span{
+    color: #0000ee;
+}
+
+#boxes{
+    padding: 10px 0px 15px 0px;
+}
+#box1{
+    width: 290px;
+    height: 100px;
+    margin-left: 30px;
+    padding: 10px 0 0 0;
+    background-color: white;
+    border: 2px solid silver;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#box1 img{
+    margin-left: 5px;
+}
+
+.text1{
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.text1 p{
+    font-weight: bold;
+}
+
+#box2{
+    width: 290px;
+    height: 100px;
+    margin-left: 10px;
+    padding: 11px 0 0 0;
+    background-color: white;
+    border: 2px solid silver;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#box2 img{
+    margin-left: 5px;
+}
+
+.text2{
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.text2 p{
+    font-weight: bold;
+}
+
+#box3{
+    width: 290px;
+    height: 100px;
+    margin-left: 10px;
+    padding: 11px 0 0 0;
+    background-color: white;
+    border: 2px solid silver;
+    display: inline-block;
+}
+
+#box3 img{
+    margin-left: 5px;
+}
+
+.text3{
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.text3 p{
+    font-weight: bold;
+}
+
+#footer{
+    background-color: #e6e3de;
+    vertical-align: top;
+}
+#footer ul li{
+    display: inline-block;
+    padding: 5px 15px;
+    border-left: 1px ridge black;
+}
+
+#footer a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+.spacing{
+    margin-right: 135px;
+}
+
+.stocks{
+    color: black;
+    font-weight: bold;
+}
+
+.green{
+    color: green;
+}
+
